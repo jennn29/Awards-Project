@@ -1,0 +1,69 @@
+h1 {
+    font-family: 'Great Vibes', cursive;
+    color: gold;
+    font-size: 70px;
+    text-align: center;
+    text-shadow: 3px 2px orange;
+}
+.s {
+ color: darkviolet;   
+ 
+ font-family: 'Lily Script One', cursive;
+ font-size: 42px;
+}
+
+.ba {
+ color: darkmagenta;   
+ font-family: 'Shrikhand', cursive;
+ font-size: 42px;
+}
+
+img {
+ height: 400px;   
+ display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 49%;
+  border-style: inset;
+  border-color: gold;
+  border-width: 20px;
+}
+
+.sm {
+ color: darkorchid;   
+font-family: 'Codystar', cursive;
+ font-size: 42px;
+}
+
+.n {
+ color: plum;   
+ font-family: 'Bungee Shade', cursive;
+ font-size: 42px;
+}
+
+body {
+ background-color: black;   
+ background-image: url(https://thumbs.gfycat.com/KnobbyRelievedAtlasmoth-size_restricted.gif);
+ background-repeat: no-repeat;
+ background-size: 100%;
+ text-align: center;
+}
+
+.ar {
+ color:blueviolet;
+ font-size: 28px;
+ font-family: 'Press Start 2P', cursive;
+}
+
+.hm {
+ color: darkslateblue;   
+}
+
+h3 {
+ color: blue; 
+ font-size: 36px;
+ font-family: 'Cinzel', serif;
+ color: white;
+  text-shadow: 1px 1px 2px black, 0 0 25px gold, 0 0 5px yellow;
+ 
+}
